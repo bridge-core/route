@@ -1,6 +1,7 @@
 {
     "author": "gekocaretaker, ReBrainerTV",
     "id": "8c2e6933-c4e9-4535-a2fa-be63d24fbd50",
+    "icon": "application-braces",
     "version": "1.0.0",
     "name": "Visual Json Editor",
     "link": "https://github.com/bridge-core/route",
